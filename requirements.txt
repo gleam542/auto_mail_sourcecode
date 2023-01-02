@@ -1,0 +1,7 @@
+filetype==1.0.9
+requests==2.3.0
+py7zr==0.11.0
+PyYAML==5.4.1
+pyinstaller==4.0
+pygubu==0.11
+pygubu-designer==0.17

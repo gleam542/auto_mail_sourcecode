@@ -1,0 +1,14 @@
+CHUNK_SIZE: 512
+CONFIG_URL:
+CURRENT: {}
+LASTEST:
+  API_VERSION: '20201023'
+  CONFIG_FILES:
+  - config\setting.ddl
+  DATA_URL:
+  DIR_PATH: 整合機器人V2.4.5
+  FILE_PATH: main.exe
+  TYPE: EXE
+  VERSION: 2.4.5
+  REQUIRE: false
+VERSIONS:
